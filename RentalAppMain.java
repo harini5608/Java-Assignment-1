@@ -4,7 +4,7 @@ import java.util.*;
 abstract class Property {
     protected String propertyId;
     protected String address;
-    protected String type; // Apartment or House
+    protected String type;
     protected double rent;
     protected boolean isAvailable;
 
